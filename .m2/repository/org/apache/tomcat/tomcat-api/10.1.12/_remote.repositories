@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 23 16:55:52 IST 2023
+tomcat-api-10.1.12.jar>central=
+tomcat-api-10.1.12.pom>central=
+tomcat-api-10.1.12-sources.jar>central=

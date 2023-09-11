@@ -227,3 +227,7 @@ clear
 git fetch
 git merge origin branch11
 git merge origin branch11
+git init
+git add
+git add .
+git commit

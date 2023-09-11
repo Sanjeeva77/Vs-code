@@ -8,9 +8,17 @@
     <value href="file:/C:/Users/CGG/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
     <value href="file:/C:/Users/CGG/Desktop/java/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
   </installation>
+  <installation>
+    <key href="file:/C:/Users/CGG/eclipse/jee-2023-06/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/C:/Users/CGG/eclipse-workspace_new/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </installation>
   <workspace>
     <key href="file:/C:/Users/CGG/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
     <value href="file:/C:/Users/CGG/eclipse/java-2023-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/CGG/eclipse-workspace_new/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/CGG/eclipse/jee-2023-06/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
   </workspace>
   <workspace>
     <key href="file:/C:/Users/CGG/Desktop/java/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
